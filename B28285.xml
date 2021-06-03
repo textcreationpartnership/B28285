@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The danger of the errors of the rulers a sermon preached upon the tenth day of March 1661 at the Assizes for Staffordshire held at Wolver-Hampton / by Edward Powel.</title>
+            <author>Powel, Edward, fl. 1661.</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28285</idno><idno type="EEBO-CITATION">10599371</idno>
+  <idno type="VID">204730</idno>
+  <idno type="EEBO-PROQUEST">2240885622</idno>
+  
+            <idno type="STC">Wing P3046A</idno>
+            <idno type="OCLC">10599371</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204730)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The danger of the errors of the rulers a sermon preached upon the tenth day of March 1661 at the Assizes for Staffordshire held at Wolver-Hampton / by Edward Powel.</title>
+                  <author>Powel, Edward, fl. 1661.</author>
+               </titleStmt>
+               <extent>[2], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson and are to be sold by John Felton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Kings and rulers --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204730:1"/>
+            <pb facs="tcp:204730:1"/>
+            <p>THE DANGER OF THE ERRORS OF THE RULERS.</p>
+            <p>A SERMON preached upon the Tenth day of <hi>March</hi> 1661. at the Assizes for <hi>Staffordshire</hi> held at <hi>Wolver-hampton.</hi>
+            </p>
+            <p>BY EDWARD POWEL, Master in Arts and chief School-Master in <hi>Stafford.</hi>
+            </p>
+            <q>Ita nati estis, ut bona maláque vestra ad Rem-publicam pertineant. <bibl>
+                  <hi>Tacit. Annal. l. 4.</hi>
+               </bibl>
+            </q>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Lucian.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Gilbertson,</hi> and are to be sold by <hi>John Felton</hi> Bookseller in <hi>Stafford.</hi> 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:204730:2"/>
+            <pb facs="tcp:204730:2"/>
+            <head>To the Honourable JOHN BELOT Esq; High Sheriffe of the County of <hi>Stafford.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Preach'd this Sermon by your appointment; but was disap<g ref="char:EOLhyphen"/>pointed in my expectation. For I look't for censure from those that heard it, but found it from those that heard it not. I read in the book of the <hi>Reve<g ref="char:EOLhyphen"/>lation</hi> of <hi>St. John, Chap. 4. V. 8.</hi> of Four Beasts, that had Eyes within; but we have need of Eyes without; when the Labours of a poor Minister (such as they are) are scand by hear<g ref="char:EOLhyphen"/>say. Ʋpon this Account I have made it pub<g ref="char:EOLhyphen"/>lique, and have hardned my heart against my understanding and conscience of my own weak<g ref="char:EOLhyphen"/>nesse. And that you may see I do not rely upon the strength of it's constitution, that it can live in spight of the breath of Censurers, I crave the <hi>Posse Comitatus</hi> for it's protection. That You, <hi>Sir,</hi> will be pleas'd to defend it and me, wherein neither I nor it have offended.</p>
+            <p>It was the advise of the Mother of <hi>Artexer<g ref="char:EOLhyphen"/>xes</hi>
+               <pb facs="tcp:204730:3"/>in <hi>Plutarch,</hi> that they who would addresse themselves to Great Persons must use <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> fine silken words. Herein, I confesse, I have mist it, for the cloathing is rugged: But if the plainnesse of the dresse be all that makes it despis'd, 'twill prove the more innocent. The Adversaries of it, I mean, those, that have spoken most against it, are persons to whom I wish all peace and happinesse: and I may in the sight of God with a good conscience protest, that in these late times of Rebellion, I was from my heart griev'd to see Men of no Religion make a prey of them, and their Estates for their Religi<g ref="char:EOLhyphen"/>on. Yet God forbid, that <hi>Roman Catholiques</hi> (as they call themselves) should justle in our streets with <hi>Reformed Catholiques;</hi> and God forbid again, that we should be reduc'd to the condition of the Church of God in the time of <hi>Nehemiah, ch. 4. v. 17.</hi> with one hand working, with the other hand holding their weapons. I look upon the <hi>Protestant Religion</hi> as the <hi>Palla<g ref="char:EOLhyphen"/>dium</hi> of <hi>Great Brittain,</hi> and his Sacred Majesty as the Keeper of it. For the preservation of it through Him, and Him in it, I shall truly and constantly pray, and in this I know you will own</p>
+            <closer>
+               <signed>Your Hearty Orator and Poor Servant, EDWARD POWELL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:204730:3"/>
+            <head>The Danger of the Errors of the Rulers.</head>
+            <epigraph>
+               <bibl>
+                  <hi>ECCLESIAST. Ch. 10. V. 5. 6. 7.</hi>
+               </bibl>
+               <q>
+                  <p>
+                     <bibl>5.</bibl> There is an evill, which I have seen under the Sunne, as an-errror which proceedeth from the Ruler.</p>
+                  <p>
+                     <bibl>6.</bibl> Folly is set in great dignity, and the rich sit in low place.</p>
+                  <p>
+                     <bibl>7.</bibl> I have seen Servants upon Horses, and Princes walking as Servants upon the earth.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Ʋgo de Sancto Victore</hi> observeth, that King <hi>Solomon</hi> had three Names. 1. <hi>Solomon</hi> sig<g ref="char:EOLhyphen"/>nifying <hi>Peace.</hi> 2. <hi>Jedidiah</hi> signifying <hi>Be<g ref="char:EOLhyphen"/>loved.</hi> 3. <hi>Ecclesiastes</hi> signifying a <hi>Preacher.</hi> And according to these three names to have written three books. 1.
+<note place="margin">See Dr. <hi>Jermin</hi> upon the Proverbs.</note> As <hi>Solomon</hi> to have written the <hi>book of the Proverbs,</hi> which are called <hi>the Proverbs of Solomon,</hi> where in the peace of love he in<g ref="char:EOLhyphen"/>structs the people in vertue and holiness. 2. As <hi>Jedidiah, the book of the Canticles,</hi> (which may well be called <hi>the book of the Beloved,</hi> wherein we have the songs of the beloved to his and her beloved.) 3. As <hi>Ecclesiastes,</hi> the book of <hi>Ec<g ref="char:EOLhyphen"/>clesiastes,</hi> or <hi>the Preacher,</hi> wherin he preacheth the vanity of worldly things. But I read also of another name, <hi>viz. Lemuell, Prov.</hi> 31.1. perhaps a name by which his Mother call'd him, or which happily his Mother gave him at his Circumcision; or else according to the notation of it, sig<g ref="char:EOLhyphen"/>nifying <hi>taught by God;</hi> according to which name perhaps he wrote <hi>his naturall History of the Plants,</hi> from the <hi>Cedar</hi> to the <hi>Shrub.</hi> But this is but conjecture. To hasten there<g ref="char:EOLhyphen"/>fore to my Text as neer as I can.</p>
+            <pb n="2" facs="tcp:204730:4"/>
+            <p>In the precedent verse we find deliver'd an excellent and usefull point of Christian policy to containe every loyall soul within the limits of Duty, which if it had been put in practice twenty years fince and upwards, we should not have had cause to complaine.</p>
+            <p>
+               <hi>O my bowels,</hi>
+               <note place="margin">Jer. 4.19, 20.</note>
+               <hi>my bowels, I am pained at my very heart, because thou hast heard, O my soul, the voice of the Trumpet, the Alarme of Warre, destruction upon destruction, the whole land is spoyled.</hi>
+            </p>
+            <p>The <hi>Iliaca passio</hi> of civil wars had never rent the bowels of the Kingdome, nor ever such a <hi>Government</hi> heard of in <hi>England</hi> as a <hi>Stratocracy.</hi>
+            </p>
+            <p>The effect of those words is this, that no unkindnesse, displeasure or injury should tempt us to the breach of our Fidelity and Allegiance, but rather that we should make use of our <hi>passive obedience,</hi> than to set so high rate upon <hi>our opinions</hi> as to maintain them by opposing <hi>lawful Autho<g ref="char:EOLhyphen"/>rity. If the spirit of the Ruler rise up against thee, leave not thy place;</hi> that is, be still a subject, remit nothing of thy duty and service. <hi>For yielding pacifieth great offences.</hi> ver. the 4. In the 5.6. and 7. verses of my Text, we have an instance of a particular grievance, many times offer'd, and among ingenious spirits ill resented, when wisedome is kept under (for in relation to wisedome, this word <hi>Rich</hi> is set as appears by the Antithesis) and <hi>Folly</hi> advanc'd When men of desert are promoted, and deserts are rewarded with disgraces, many times with punishment. Such was the <hi>Grecian Ostracisme,</hi> and such was the <hi>Roman Proscrip<g ref="char:EOLhyphen"/>tion.</hi> Such was the <hi>Guerdon</hi> of <hi>Bellizarius,</hi> who for all his service to the Emperour had his Eyes put out, and reduc't to that extremity of poverty, that he sate by the way side begging <hi>Date Obolum Bellizario</hi>
+            </p>
+            <p>And thus <hi>Demetrius Phalerius,</hi> that once had the Go<g ref="char:EOLhyphen"/>vernment of <hi>Athens,</hi> after Library keeper to <hi>Ptolomy Phila<g ref="char:EOLhyphen"/>delphus,</hi> had his statues of marble formerly rays'd to his honour by the <hi>Athenians,</hi>
+               <note place="margin">Diog. La<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t. in vita De<g ref="char:EOLhyphen"/>met.</note> throw'n down to the ground even by the same men; which ill usage had no other reply from him than this. <hi>At virtutem meam non everterunt.</hi>
+            </p>
+            <p>This is commonly acted upon the stage of the world.
+<pb n="3" facs="tcp:204730:4"/>
+               <hi>Solomon</hi> observ'd it. <hi>There is an evill, which I have seen.</hi> That witlesse, worthlesse fooles find respect and counte<g ref="char:EOLhyphen"/>nance, wise and well-deserving labours draw either scorn or jealousie upon the performers.</p>
+            <p>So that in this we may behold the blind world scattering her doal at random; to some favour, to some frownes. To wise men want, and wealth to fooles. For the better view of which Ataxy or disorder as it is here propos'd in my Text, observe with me in the words these three circum<g ref="char:EOLhyphen"/>stances.</p>
+            <list>
+               <item>1. The place where this disorder is to be seen. <hi>An evill which I have seen under the Sunne.</hi>
+               </item>
+               <item>2. The fault where it lies, or the cause from whence it proceeds. <hi>It is an Error, which proceeds from the Ruler.</hi>
+               </item>
+               <item>3. The disorder it self, what it is. <hi>Folly set in great dignity, and the rich in great place.</hi>
+               </item>
+            </list>
+            <p>That every Ataxy, all disorder is an evill, I need not, I will not spend time to prove.</p>
+            <p>Something of the place, where this evill is to be seen. <hi>Ʋnder the Sunne.</hi>
+            </p>
+            <p>This is <hi>Solomons</hi> usual Phrase; A phrase no where more used than here in <hi>Ecclesiastes.</hi>
+            </p>
+            <p>And there may be a two-fold reason alleag'd for the use of it. 1. To denote the quality of the things whereof he speaks. 2. To declare their large extent.</p>
+            <p n="1">1. The quality, that this his discourse is onely about sublunary affairs, not heavenly matters, of things under the Sunne not above the Sunne.</p>
+            <p n="2">2. Their large extent. A disorder to be seen not in one place onely, or under one climate, but every where <hi>Ʋn<g ref="char:EOLhyphen"/>der the Sunne.</hi>
+            </p>
+            <p>Ground we it upon the first reason, then this is the Ob<g ref="char:EOLhyphen"/>servation.</p>
+            <p>Above the Sunne there is no such evill. <label type="milestone">
+                  <seg type="milestoneunit">Obs. </seg>1</label> Hereafter when we shall be exalted through grace and mercy, we shall meet with no such Ataxy or Confusion. There is no fail<g ref="char:EOLhyphen"/>ing of a Christians hope, no disappointment of a Christians Faith. No; There our faith shall be turn'd into a manifest
+<pb n="4" facs="tcp:204730:5"/>vision of God. <hi>Now we see through a glasse darkly, then face to face.</hi>
+            </p>
+            <p>There our hope shall be turned into enjoyment. <hi>They shall hunger no more,</hi>
+               <note place="margin">Rev. 7.16, 17.</note>
+               <hi>neither <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>irst any more, neither shall the Sunne light on them nor any heat: for the Lamb which is in the midst of the throne shall feed them, and lead them unto living fountaines of waters,</hi> &amp;c. There our imperfect love shall be turn'd into the perfect love of God, love that shall abide for ever.
+<note place="margin">1 Cor. 13.8.</note>
+               <hi>Prophecies shall fail, and tongues shall cease, but charity never faileth.</hi>
+            </p>
+            <p>As none comes thither by desert, so none shall be digni<g ref="char:EOLhyphen"/>fyed, that is of no desert. Heaven a place more glorious then the Sunne, much more spacious then the prospect of the Sunne, admits of no praeposterous placing, <hi>No uncleane thing shall enter therein</hi> Base wretched,
+<note place="margin">Rev. 21.27.</note> faithlesse crea<g ref="char:EOLhyphen"/>tures shall be excluded thence. They who fear God, that are rich in spirituall wisdome, servants of righteousnesse, that have forsaken all to follow Christ, shall then and there not be deceived of their expectation, nor frustrated of their hopes, nor fore-stalled of their happinesse. They who fol<g ref="char:EOLhyphen"/>low Christ here in Troubles, shall there sit with him on Thrones.
+<note place="margin">Dan. 12.3.</note>
+               <hi>They shall shine as the brightnesse of the Firma<g ref="char:EOLhyphen"/>ment, and glitter as the starrs.</hi> Such honour have all his Saints.</p>
+            <p>Who would not then contemne this world in respect of Heaven? who would not rather live above? Hear what <hi>Africanus</hi> an Heathen could tell <hi>Scipio</hi> in his dream. <hi>Ii vivunt, qui e corporum ergastulis tanquam e carcere evolave<g ref="char:EOLhyphen"/>runt, vestra vero quae dicitur vita, Mors est.</hi> While we live here we shall see many vanities, hear many follies, taste of many sorrowes, and have experience of many miseries. But when we shall be above the Sunne, we shall be like the Hill <hi>Olympus</hi> above wind and weather.</p>
+            <p>Yet while we do live here under the Sunne, we must possesse our soules with patience,
+<note place="margin">Psal. 47.1.</note>
+               <hi>Fret not thy self because of evill doers,</hi> &amp;c.</p>
+            <p>Do others rise and thou fall? are others promoted and thou still in silent obscurity? Alas! these are sublunary changes, worldly changes.</p>
+            <pb n="5" facs="tcp:204730:5"/>
+            <p>Nay in our spiritual state, when we have done all we can here, we shall have many gloomy dayes, many feares, many distractions of Conscience, that our God is not yet reconciled fully to us. The spiritual Sunne is but halfe fac'd in our Horizon, for our happinesse here is onely in <hi>fieri</hi> and not in <hi>facto esse.</hi> We are still under the Hammer. As well the temper as the distemper of all things here below consists in contrarieties.</p>
+            <p>As we ground it upon the second reason of the Phrase, for the large extent, then the Observation is this,</p>
+            <p>Deserts unrewarded are every where common in the practise of this world. <label type="milestone">
+                  <seg type="milestoneunit">Obs. </seg>2</label> When <hi>Mordecay</hi> had served the King to the saving of his life, the question was asked,
+<note place="margin">Hest. 6.3.</note> what honour had been done to <hi>Mordecay</hi> for this; his servants answer'd, nothing is done for him. <hi>Joab</hi> complain'd of it before among the <hi>Jewes, Trismegistus</hi> among the <hi>Aegypti<g ref="char:EOLhyphen"/>ans, Aristides</hi> among the <hi>Athenians, Scipio</hi> among the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> and how many thousand discontented persons are amongst us? But I hasten from the place where, to the per<g ref="char:EOLhyphen"/>son from whence. <hi>It proceeds from the Ruler.</hi>
+            </p>
+            <p>All Ataxyes, confusions, disorders in a state, <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>3</label> are the pro<g ref="char:EOLhyphen"/>ducts of the Error of the Ruler.</p>
+            <p>
+               <hi>Solomon</hi> said it, and <hi>Solomon</hi> found it. He said it when he found it by the experience of his own error in Govern<g ref="char:EOLhyphen"/>ment in his latter time (for then 'tis conceiv'd he wrote this book) doubtlesse fore-seeing what he could not pre<g ref="char:EOLhyphen"/>vent, the great and dangerous revolt, that would come to pass in the time of his sonne <hi>Rehoboam.</hi> 'Twas smartly said of him, if not bitterly.</p>
+            <q>
+               <l>Tantum ingenium marcuit cum maturuit;
+<note place="margin">Emanuel Thes.</note>
+               </l>
+               <l>Ʋt nescias utrum magis mirere,</l>
+               <l>Senium in infante an infantiam in sene.</l>
+            </q>
+            <p>And if <hi>Rehoboam</hi> when he came to the Crown, had been as wise as his Father at that Age, he might have disap<g ref="char:EOLhyphen"/>pointed <hi>Jeroboams</hi> popularity, and have sent him back to <hi>Aegypt</hi> from whence he came. But the weaknesse of
+<pb n="6" facs="tcp:204730:6"/>the Ruler is alwayes followed by the wickednesse of the people.
+<note place="margin">Pro. 29.12</note>
+               <hi>If a Ruler hearken to lies, all his Servants are wicked</hi> saith <hi>Solomon</hi> himself. As the House of <hi>Saul</hi> grew weaker and weaker, so the House of <hi>David</hi> grew stronger &amp; stronger. The errors of <hi>Sauls</hi> Government casting a beauty and lustre upon <hi>David</hi> though in distraction and persecuti<g ref="char:EOLhyphen"/>on; so that <hi>Davids</hi> shifts and evasions lookt like victories, and the pursuits of <hi>Saul</hi> a disorder'd march. And doubt<g ref="char:EOLhyphen"/>lesse (if I may digresse so farre) Our <hi>Sauls</hi> that invaded this Government, had so weakned the hands of all Loyall Subjects, so strengthned themselves by Allyes abroad and their numerous Forces at home, that, in the eye of humane judgement, they stood like a rock not to be pusht at, and they might say (as perhaps they did) in our prosperity we shall never be moved; had not the loosenesse and vari<g ref="char:EOLhyphen"/>ablenesse of their Councels (the greatest error in Govern<g ref="char:EOLhyphen"/>ment) made room for our <hi>Royall David</hi> to sit upon his Fathers Throne.</p>
+            <p>Hear what <hi>David</hi> himself said, when he came to the Crown, and <hi>Saul</hi> had almost ruin'd the Kingdome. <hi>The Land is weak,</hi>
+               <note place="margin">Psal. 75.3.</note>
+               <hi>and all the Inhabitants thereof are spoiled, I bear up the pillars thereof.</hi>
+            </p>
+            <p>Hence doubtlesse was it that the Royall Scepter was banded from Family to Family after the revolt from <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> till all <hi>Israell</hi> was led away into Captivity. Hence was it that the power and glory of the <hi>Assyrians</hi> was arrest<g ref="char:EOLhyphen"/>ed by the valour of the <hi>Persians,</hi> and the <hi>Persians</hi> could not keep what they had got, but through their Luxury made rendition of it to the <hi>Grecians,</hi> and the <hi>Grecians</hi> through their dividing and cantoning the Empire made way for the Roman name to be eterniz'd to posterity. And hence was it, that barbarous unletter'd Nations dissolv'd that learned Empire. And why the <hi>Gothes</hi> and <hi>Vandals</hi> over ran <hi>Germany, France, Italy,</hi> the greatest part of <hi>Europe,</hi> and the flourishing Churches of <hi>Affrica;</hi> 'twas an error that had it's rise from the Rulers: For though as <hi>Salvian</hi> tells us (who liv'd in those times) the disorders were Epide<g ref="char:EOLhyphen"/>mical, yet they grew so for want of restraint in the Rulers.</p>
+            <pb n="7" facs="tcp:204730:6"/>
+            <p>I need not go so farre to shew you the dire effects, that have proceeded from the errors of Rulers; our own Chro<g ref="char:EOLhyphen"/>nicles will furnish us with examples, as one of the <hi>Edwards,</hi> and one of the <hi>Richard.</hi>
+               <note place="margin">Cic.</note>
+               <hi>Sed in re tali externa libentius quam domestica recordor.</hi>
+            </p>
+            <p>
+               <q>Yet sure 'twas more horrible impiety for the Judge in his Circuit to justifie the bloody butchering of his Majesty of Blessed Memory,
+<note place="margin">
+                     <hi>Anno</hi> 1. <hi>reip. Aug.</hi>
+                  </note> by urging them for precedents <hi>(not a loquor)</hi> the Murthering of which Princes, no impious Pen was yet extant so bold, that durst maintaine or justifie.</q>
+            </p>
+            <p>Nay there is reason that the Rulers errors must needs produce these sad effects. They are like the Planets above, according to their aspects and influences so fares it with Creatures of all kinds here below. They are the <hi>Vena Porta</hi> that convey the life-blood of peace and order into all the Members; nay they are the Originall of nerves, the fountaine of all the Animal spirits, that give strength and motion to all the Limbes. <hi>Omnis nervorum paralysis a capite.</hi> Nay this error is like the first mans, many times it leaves a universal taint. And therefore the expiatory sacrifices were greater for the sinnes of the Rulers in Church and State, then for the rest of the people. The finne of the Priest was in the estimate of God, as the sinne of the whole Congregation,
+<note place="margin">Lev 4.3. <hi>v.</hi> 23. <hi>v.</hi> 28. <hi>v.</hi> 32.</note>
+               <hi>and the offering for his sinne was a young Bullock without blemish. If the Ruler sinned he was to offer a Kid of the Goates, a Male without blemish. If an ordinary man offended, a Female serv'd the turn. Whe<g ref="char:EOLhyphen"/>ther it were of Goats or of Lambs.</hi>
+            </p>
+            <p>And now (beloved) as the confideration of the excel<g ref="char:EOLhyphen"/>lency of the glory prepared for the Saints to all eternity,
+<note place="margin">2 Cor. 4.17.</note> made the Apostle <hi>Paul</hi> to use that Metaphor <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>O the weight of Glory!</hi>
+            </p>
+            <p>So the consideration of the Anxieties, the Cars and Fears, Jealousies and Dangers, which attend upon the dignity of the Rulers, may well bring me to the same Metaphor to cry out <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. O the weight of humane heigth and honour.</p>
+            <pb n="8" facs="tcp:204730:7"/>
+            <p>The Rulers are indeed like heavenly bodies, they have much veneration but little rest.</p>
+            <p>Nay the Ruler is a Kingdome himself, and he is his own Subject, to rule his Actions, his Affections, his Words, his Thoughts, they are the people, which inhabit him. And then hear <hi>Solow on</hi> again.
+<note place="margin">Prov. 25.28.</note>
+               <hi>He that hath no rule over his own spirit, is like a City without walls.</hi> And then in relation to others. What providing for without, what providing for within
+<q>Ʋt insidiis nil liceat, nil pateat dolis</q>
+            </p>
+            <p>Providing against those without, for and against those within.</p>
+            <p n="1">1. Providing for, taking care for all degrees of people. <hi>The Kings heart is as the Rivers of waters.</hi>
+               <note place="margin">Pro. 21.1.</note> In their over<g ref="char:EOLhyphen"/>flowing what good to the grounds, sometimes what danger?</p>
+            <p>Sometimes providing against those within, even those whom they have rais'd.</p>
+            <p>Nay 'twill be requisite sometimes to provide against the Holy Order, that they rise not too high to the checking of the civil power. It could not be but a great error in <hi>Ju<g ref="char:EOLhyphen"/>stinian,</hi>
+               <note place="margin">See Dr. <hi>Cracan thorp</hi> up<g ref="char:EOLhyphen"/>on the Council.</note> when he had summoned the Fifth General council at <hi>Constanstinople</hi> for the suppression of the <hi>Nestorian</hi> Heresie, to suffer Pope <hi>Viglius</hi> in the same City at the same time with an Assembly of his own to brave it with the Emperiall Convocation. In our own Kingdome <hi>Anselmus</hi> and <hi>Tho<g ref="char:EOLhyphen"/>mas Becket</hi> both Arch bishops of <hi>Canterbury,</hi> with their Crosier staves, did almost try it with the Kings sword, and yet they had to do with stout and haughty Kings; namely, <hi>William Rufus. Henry</hi> the First and <hi>Henry</hi> the Second. It were more then the businesse of a Sermon, to recount those Disorders and Confusions, which ranne through all Christendome through the errors of the Rulers in permit<g ref="char:EOLhyphen"/>ting the Sea of <hi>Rome</hi> to tread upon the Neck of civill Au<g ref="char:EOLhyphen"/>thority. Here the folly (which <hi>Solomon</hi> speaks of) might have been conspicuous; nay as if it had been a divine vi<g ref="char:EOLhyphen"/>sion of the future Tyranny of the Popes. <hi>I have seen ser<g ref="char:EOLhyphen"/>vants upon Horses, and Princes walking as servants upon the Earth.</hi>
+            </p>
+            <pb n="9" facs="tcp:204730:7"/>
+            <p>And who knows not how a blast from the Scotch Horn has shaken the Crownes of <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>Providing against men of the Holy Order, especially a<g ref="char:EOLhyphen"/>gainst such spirits, as dare Print and Publish such a <hi>Thesis</hi> as this.</p>
+            <p>
+               <q>If a people that by Oath and Duty are obliged to a Soveraigne, shall sinfully dispossesse him, and contrary to their Covenant, choose and Covenant with Another, they may be obliged by their latter Covenant notwith<g ref="char:EOLhyphen"/>standing their former.</q>
+            </p>
+            <q>Videtis sub hoc uno cespite quod latent colubri.</q>
+            <p>But he was overthrown by the Learned Bishop of <hi>Wor<g ref="char:EOLhyphen"/>cester,</hi> as <hi>David</hi> overthrew the <hi>Assyrians</hi> in the valley of Salt.</p>
+            <p>
+               <hi>Stultitiam immoderati saporis detegens &amp; extinguens.</hi>
+               <note place="margin">2 Sam. 8.13.</note>
+            </p>
+            <p>And a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> providing against so also providing for the Holy Order, that it be not kept too low, lest God depart from between the <hi>Cherubins,</hi> and so come down to the Threshold, and then fly away into the Mountaines.</p>
+            <p>I know their are <hi>Hanuns,</hi> that would curtayle and shave the Messengers of God even to their shame. The Church is called Gods Husbandry, and there are Lay-patrons, that would make <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Gods Husbandmen worse then their own. But this is not the Error of our Gracious Ru<g ref="char:EOLhyphen"/>ler, witnesse his Royal Letter full of Grace and Love to the poor Ministry. I pray God it be not the error of Clergy Rulers.</p>
+            <p>Well, thus ye see the Pin of Government must neither be wound up too High, nor let down too Low; and then that which makes the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The people that understand only the noise will censure the Art and Musick of Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>If the errors of the Rulers be so dangerous, their callings so weighty; O what prayers and supplications should be put up to Almighty God, especially for those that are in Authority. This is the great duty that lies upon the Sub<g ref="char:EOLhyphen"/>ject. Let us look to it. If the spirit of error should fall
+<pb n="10" facs="tcp:204730:8"/>the Ruler <hi>(quod avertat Deus Opt. Max.) plectentur Achivi.</hi>
+               <note place="margin">
+                  <hi>Deliro à lirâ vel sulco aber<g ref="char:EOLhyphen"/>rare.</hi> Erasm.</note> The east swerving from the line or track of Justice in Go<g ref="char:EOLhyphen"/>vernment, will fall heavy upon the Governed.</p>
+            <p>O then for our own sakes we should be constant in our duty of praying for them, not making tumultuary addresses to them with seditious petitions upon the heads of Pikes. Farre from the custome of the <hi>Persians</hi> in <hi>Xenophon,</hi> who when they came into the presence of their King, pluckt their hands into their sleeves: no, praying for them; while their hands are busie for you, let your hearts be busie for them with the Lord God, especially at this time of their great and weighty consultations for the settling the Church and State. See what reason.</p>
+            <p n="1">1. The Churches Enemies, and so the Kingdomes are numerous, and powerfull, if there were opportunity.</p>
+            <p>
+               <hi>Midian</hi> was two hard for <hi>Israel, Numb.</hi> 25.18. nay they out-witted them; They vext them with their wiles.</p>
+            <p n="2">2. They are wealthy, and not only of their own, but what they have got from others in the turn of State.</p>
+            <q>
+               <l>— Quibus una Quiritem</l>
+               <l>Vertigo facit. —</l>
+            </q>
+            <p n="3">3. In diligence very active. While the good man sleeps they sow Tares. Very much and very strongly united in their designes, as if they were all ated by one spirit, and that workes strongly in the Sonnes of Rebellion. Let us pray then that they be not like the Sonnes of <hi>Zerviah,</hi> too hard for <hi>David.</hi>
+            </p>
+            <p>An error, which proceeds from the Ruler. Rulers have their errors, and good Rulers too. I beseech you that are Rulers of our County, that ye suffer the reflexion upon these grounds.</p>
+            <p n="1">1. It will make you more carefull. 2. More humble. 3. More merciful.</p>
+            <p n="1">1. More careful in correcting your own errors, and in suppressing the errors of the Rulers under you. Though <hi>Asa</hi> did that which was right in the sight of the Lord, yet
+<pb n="11" facs="tcp:204730:8"/>he had a disease in his feet. The streame of Justice ranne without obstruction through the higher Courts, while in the mean time the lower petty Courts may like a <hi>Stagnum</hi> contract a <hi>situs,</hi> a filth which may stink in the nostrils of all good men: where the <hi>petit</hi> poor trespasses of trans<g ref="char:EOLhyphen"/>gressors inrich and swell up the purses of covetous Officers. Let me describe many of them in Scripture language. <hi>They give their mouths to evil, and their tongue frames deceit.</hi>
+               <note place="margin">Ps. 50.19. Ps. 84.20. Jer. 5.26.</note>
+               <hi>They frame mischief by a Law.</hi>
+            </p>
+            <p>
+               <hi>Among my people are found wicked men, they lay wait as he that setteth snares, they set a trap, they catch men.</hi>
+            </p>
+            <p n="2">2. As it will make ye more carefull in respect of your selves and others, so again it will make ye more humble in your selves; for it will teach ye not to over-rate your own excellencies. When ye read of <hi>Caius</hi> murther, <hi>Sena<g ref="char:EOLhyphen"/>cheribs</hi> blasphemy, <hi>Judas</hi> his not to be paraleld treason, and the fearfull Apostacy of <hi>Julian;</hi> when ye hear (as ye cannot choose but hear every day) (so sad is the condition of <hi>England</hi>) those horrid murthers, both roberies, treasons perjuries, blasphemies and other horrid sins committed, then by this reflection ye will bless God for his preventing grace: for you also have the same root, from whence spring all these impieties.</p>
+            <p n="3">3. As this reflection will make ye more humble in your selves, so it will make ye more merciful to others. Cer<g ref="char:EOLhyphen"/>tainly this made Them in ancient times never to give Sen<g ref="char:EOLhyphen"/>tence <hi>nisi priùs obductis velis,</hi> till they had drawn a curtain between themselves and the Prisoner.</p>
+            <p>This reflection will tell ye, that the Prisoner is of the same nature with you, that the soul cost equal price, equally capable of eternal happinesse to through mercy in Christ. — And therefore 'tis a sad thing to see a Judge in the gravity of his smiles to throw scorn upon the Prisoner at the Bar, and instead of gently reproving, bitterly to taunt the Malefactor.</p>
+            <p>Well yet something remains, that I should lay down rules, give directions for the avoiding of these errors, which I shall neither fetch out of <hi>Tacitus</hi> nor <hi>Polybius,</hi> much
+<pb n="12" facs="tcp:204730:9"/>lesse out of <hi>Machiavil;</hi> I shall onely therefore humbly ad<g ref="char:EOLhyphen"/>vise ye, that ye apply your selves and all your Actions to that rule, where there is no obliquity; and that rule is the sacred Word of God.</p>
+            <p>Let that holy and happy Ruler <hi>David</hi> be your Example; study him, read him in the 101 <hi>Psalm,</hi> what excellent di<g ref="char:EOLhyphen"/>rections he lays down for all Rulers. <hi>I will sing of mercy and judgement, unto thee O Lord will I sing,</hi> ver. 1. Indeed the whole Psalme is nothing else, but a Judges Directory. Read him in the 119 Psalm, and see, if he do not make the Word of God his Rule. 'Tis a long Psalme yet there are few nay very few Verses in a I that Psalm where God's Commandments, Judgements, Statutes, Ordinances or something equivalent are not mention'd: with most passio<g ref="char:EOLhyphen"/>nate, happy tautologies his tongue stayes, dwells upon them, as if he were afraid of an untimely losse.</p>
+            <p>Mountains and Vallies cause some unevennesse in the Earth, yet in respect of the Universe, they make but one plain and even Globe. So this Wise Ruler knew that he was plac'd above others, yet he also knew, that he was e<g ref="char:EOLhyphen"/>qually subject in respect of God.</p>
+            <p>Sure our Royal and Holy <hi>David,</hi> that was so barba<g ref="char:EOLhyphen"/>rously, so bloodily taken from us, kept his eye steady upon this Rule, that he had read, that he had studied <hi>David,</hi> espe<g ref="char:EOLhyphen"/>cially in his book of Psalms, let his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> bear witnesse.</p>
+            <p>But behold a greater than <hi>David.</hi> Let me propose the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to you for an Example, who took not upon him onely the honour of ruling his people but the work also.</p>
+            <p>So 'twas prophecyed of him: <hi>The Government shall be upon his shoulders.</hi>
+               <note place="margin">Esay 9.6.</note>
+            </p>
+            <p>And so the same Prophet though many hundred years before,
+<note place="margin">Esay 49.4</note> foretold what he should doe. <hi>I have labour'd in vain, I have spent my strength for nought, and in vain; yet surely my judgement is with the Lord.</hi>
+            </p>
+            <p>The word signifies <hi>cum anhelatione &amp; defatigatione labo<g ref="char:EOLhyphen"/>rare.</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> say the <hi>Septuagint,</hi> that is, I have laboured with weariness.</p>
+            <pb n="13" facs="tcp:204730:9"/>
+            <p>The second word signifies as if the radical moisture were dried up and spent.</p>
+            <p>According to him that was the type.
+<note place="margin">Ps. 22.15.</note>
+               <hi>My strength is dried up like a potsheard.</hi>
+            </p>
+            <p>Thus ye see <hi>Judici non tantum commissa est Potestas sed Fides.</hi>
+               <note place="margin">Cic.</note>
+            </p>
+            <p>And while I presse the Word of God to be your Rule, I cannot but take notice of those, that walk contrary and a<g ref="char:EOLhyphen"/>gainst this Rule: Insomuch, that it looks rather like the design of providence than convenience, that this Town is made the Seat of justice, where so many with open face walk obnoxious to the Lawes of God and the King.</p>
+            <p>Sure our dissenting Brethren will leave rayling against Protestant <hi>Bishops,</hi> when they see the Popes interest carried on, in a place that is almost in the middle of a County, and almost in the middle of a Kingdom.</p>
+            <p>There are of that Religion, whom I must never speak of but with honourable mention for their eminent and never to be forgotten service in the preservation of his Majesty.</p>
+            <p>And I am most confident, that the modesty of those Gen<g ref="char:EOLhyphen"/>tlemen will not give them leave to scandalize that Person whom they endeavoured to preserve with the hazard of their lives and fortunes.</p>
+            <p>But there are more Recusants than Papists, that absent themselves from our Congregations, preferring h<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>condriacal devotion before grave and well temper'd prayers.</p>
+            <p>These begin to murmure as <hi>Israel</hi> in their Tents, saying, <hi>because the Lord hated us, he hath brought us forth out of</hi> Ae<g ref="char:EOLhyphen"/>gypt <hi>to deliver us into the hands of the</hi> Amorites. So They. God has restor'd us our King, our Lawes and Liberties, and deliver'd us from Anarchy to deliver us up into the hands of Papists.</p>
+            <p>I am afraid the practise of the former helps on to the grumbling of the latter.</p>
+            <p>Though the publique Service and Ceremonies be the grand Pretext, Men will be lovers of themselves to the
+<pb n="14" facs="tcp:204730:10"/>worlds end, and consequently of their own opinions: but the Law is made for a Curb to fancy, and to keep di<g ref="char:EOLhyphen"/>stemper'd spirits within the hedge of obedience.</p>
+            <p>And while I go on to presse you to the observance of the Sacred Rule as your Rule, let me beg that the Day of Pub<g ref="char:EOLhyphen"/>lique Worship may have more publique honour, that there may not be such travelling up and down that day upon needlesse, and I fear too much upon sinful occasions; that the <hi>bells</hi> of <hi>Pack-horses</hi> may not be louder than those of the Churches. 'Tis a sad Sabbath when the beasts may not rest from Labour, nor their Masters from sin.</p>
+            <p>I do not argue for a Christian Sabbath from Jewish Prin<g ref="char:EOLhyphen"/>ciples; but if it be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Lords Day, let it be kept <hi>Holy to the Lord.</hi>
+            </p>
+            <p>'Twas a good and wholesome Act (with submission let me speak it) to prohibit Arrests on that Day, that men might not be haled to Prison on that Day, when their Sa<g ref="char:EOLhyphen"/>viour arose from the Prison of the Grave, and gave plenary satisfaction for the Debts of mankind to God the Father.</p>
+            <p>I know 'twas an act made in the time of Rebellion, yet if it be a good one, let us keep it as we doe the Lands they got for us beyond Sea. The <hi>Acts</hi> of <hi>Richard</hi> the Third, A <hi>Protector</hi> and an <hi>Ʋsurper,</hi> the Greatest but One, were good and are observ'd; and though my Lord <hi>Bacon</hi> in his <hi>Henry</hi> the seventh tells us, such Good Lawes are but the brokage of usurpation; yet seeing God hath restor'd us the Princi<g ref="char:EOLhyphen"/>pal, <hi>Our King,</hi> let us not lose the Use and Interest.</p>
+            <p>There are many other things, which I might touch upon, as <hi>The Jewry,</hi> that some one more crafty than the rest might not lead his fellows, and so They like Sheep, go <hi>Quà itur non quà eundum,</hi> following their Fore-man, and never observing what the Evidence points at, or directs to. But this is <hi>extra sphaeram.</hi>
+            </p>
+            <p>
+               <hi>May the word of God be your Rule according to which you may walk, and the Spirit of God your Guide
+<pb n="15" facs="tcp:204730:10"/>to enable you to walk according to that Rule; and then — Ye will not be</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>as</hi> Homer <hi>terms them, nor</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>as</hi> Hesiod; <hi>but it will be according to the Orator.</hi>
+            </p>
+            <p>Patrocinium <hi>Angliae</hi> potiùs quam Imperium.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
